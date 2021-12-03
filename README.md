@@ -1,5 +1,6 @@
 # Tableau-Supermarket-Visualization
 Data Visualization using Tableau
+
 This Repository contains the visualization of the Supermarket Sales of a store in Myanmar for January to March 2019. This was done for the internal assessment of Data Visualization.
 # Visualizations
 ![image](https://user-images.githubusercontent.com/72610095/144572054-77188dca-1f55-45c4-ae68-3e156f2294a3.png)
